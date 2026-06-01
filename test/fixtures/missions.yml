@@ -1,12 +1,1 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  agent: one
-  title: Recover archive
-  status: assigned
-
-two:
-  agent: two
-  title: Track NULL
-  status: in_progress
-
