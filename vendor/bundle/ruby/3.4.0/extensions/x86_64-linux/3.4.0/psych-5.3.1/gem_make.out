@@ -1,0 +1,29 @@
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+/usr/bin/ruby extconf.rb
+checking for pkg-config for yaml-0.1... [" ", "", "-lyaml"]
+creating Makefile
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-7bvoz1 sitelibdir\=./.gem.20260601-19245-7bvoz1 clean
+cd libyaml && make clean
+/bin/sh: line 1: cd: libyaml: No such file or directory
+make: [Makefile:287: clean-so] Error 1 (ignored)
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-7bvoz1 sitelibdir\=./.gem.20260601-19245-7bvoz1
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-7bvoz1 sitelibdir\=./.gem.20260601-19245-7bvoz1 install
+/usr/bin/install -c -m 0755 psych.so ./.gem.20260601-19245-7bvoz1
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/psych-5.3.1/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-7bvoz1 sitelibdir\=./.gem.20260601-19245-7bvoz1 clean
+cd libyaml && make clean
+/bin/sh: line 1: cd: libyaml: No such file or directory
+make: [Makefile:287: clean-so] Error 1 (ignored)

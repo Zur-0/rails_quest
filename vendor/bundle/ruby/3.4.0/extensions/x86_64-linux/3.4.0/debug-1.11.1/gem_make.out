@@ -1,0 +1,19 @@
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-s0bb91 sitelibdir\=./.gem.20260601-19245-s0bb91 clean
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-s0bb91 sitelibdir\=./.gem.20260601-19245-s0bb91
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-s0bb91 sitelibdir\=./.gem.20260601-19245-s0bb91 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20260601-19245-s0bb91/debug
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-s0bb91 sitelibdir\=./.gem.20260601-19245-s0bb91 clean

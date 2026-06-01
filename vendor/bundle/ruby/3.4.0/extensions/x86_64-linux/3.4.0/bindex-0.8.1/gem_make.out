@@ -1,0 +1,18 @@
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-3rq2ab sitelibdir\=./.gem.20260601-19245-3rq2ab clean
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-3rq2ab sitelibdir\=./.gem.20260601-19245-3rq2ab
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-3rq2ab sitelibdir\=./.gem.20260601-19245-3rq2ab install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20260601-19245-3rq2ab/skiptrace/internal
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-3rq2ab sitelibdir\=./.gem.20260601-19245-3rq2ab clean

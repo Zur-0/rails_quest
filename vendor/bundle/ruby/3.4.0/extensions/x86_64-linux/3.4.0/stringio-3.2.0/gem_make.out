@@ -1,0 +1,19 @@
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+/usr/bin/ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-bvftcr sitelibdir\=./.gem.20260601-19245-bvftcr clean
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-bvftcr sitelibdir\=./.gem.20260601-19245-bvftcr
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-bvftcr sitelibdir\=./.gem.20260601-19245-bvftcr install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20260601-19245-bvftcr
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/stringio-3.2.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-bvftcr sitelibdir\=./.gem.20260601-19245-bvftcr clean

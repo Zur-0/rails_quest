@@ -1,0 +1,18 @@
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-o5yxaq sitelibdir\=./.gem.20260601-19245-o5yxaq clean
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-o5yxaq sitelibdir\=./.gem.20260601-19245-o5yxaq
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-o5yxaq sitelibdir\=./.gem.20260601-19245-o5yxaq install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20260601-19245-o5yxaq
+
+current directory: /home/egor/ruby/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260601-19245-o5yxaq sitelibdir\=./.gem.20260601-19245-o5yxaq clean
