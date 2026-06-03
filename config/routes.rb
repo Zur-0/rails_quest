@@ -29,7 +29,4 @@ Rails.application.routes.draw do
   get "/access_gate/granted", to: "quest3_access_gate#granted", as: :granted
   get "/access_gate/denied", to: "quest3_access_gate#denied", as: :denied
 
-  #get "/access_gate/ping", to: "quest3_access_gate#ping"
-  #post "/access_gate/scan", to: "quest3_access_gate#scan"
-  #patch "/access_gate/power", to: "quest3_access_gate#power"
 end
